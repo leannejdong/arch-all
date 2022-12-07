@@ -1,4 +1,4 @@
-# == ARCH SETUP INSTALLER == #
+# == ARCH SETUP INSTALLER (!mine) == #
 #part1
 printf '\033c'
 echo "Welcome to my buggy installer script"
